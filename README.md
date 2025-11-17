@@ -1,6 +1,16 @@
-#This project is divided into 4 major tasks:
 
-🔹 Task 1 — Exploratory Data Analysis (EDA)
+# 🌫️ Air Quality Index (AQI) Analysis  
+#### Complete Data Science Project using Python
+
+## 📌 Overview
+This project performs a full exploratory data analysis (EDA) of Air Quality Index (AQI) data.  
+It includes data cleaning, preprocessing, visualization, trend analysis, correlation study, and insights generation.
+
+The goal is to understand pollution behaviour over time and identify key pollutants influencing AQI levels.
+
+**This project is divided into 4 major tasks:**
+
+🔹 **Task 1 — Exploratory Data Analysis (EDA)**
 
 Cleaned time-series data
 
@@ -12,7 +22,7 @@ Distribution of Prominent Pollutant
 
 Monthly & yearly AQI patterns
 
-🔹 Task 2 — Time-Series Forecasting (Supervised Learning)
+🔹** Task 2 — Time-Series Forecasting (Supervised Learning)**
 
 Converted dataset into sliding window format
 
@@ -30,7 +40,7 @@ Evaluated with MAE, RMSE
 
 Plotted Actual vs Predicted AQI
 
-🔹 Task 3 — Clustering Pollution Patterns (Unsupervised Learning)
+**🔹 Task 3 — Clustering Pollution Patterns (Unsupervised Learning)**
 
 Applied K-Means Clustering
 
@@ -46,7 +56,7 @@ Visualized clusters & centroids
 
 Interpreted AQI category ranges
 
-🔹 Task 4 — AI Seasonal Pollution Pattern Detector
+**🔹 Task 4 — AI Seasonal Pollution Pattern Detector**
 
 Calculated monthly average AQI
 
