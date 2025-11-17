@@ -1,6 +1,6 @@
 
 # 🌫️ Air Quality Index (AQI) Analysis  
-#### Complete Data Science Project using Python
+#### Project using Python
 
 ## 📌 Overview
 This project performs a full exploratory data analysis (EDA) of Air Quality Index (AQI) data.  
@@ -22,7 +22,7 @@ Distribution of Prominent Pollutant
 
 Monthly & yearly AQI patterns
 
-🔹** Task 2 — Time-Series Forecasting (Supervised Learning)**
+**🔹 Task 2 — Time-Series Forecasting (Supervised Learning)**
 
 Converted dataset into sliding window format
 
